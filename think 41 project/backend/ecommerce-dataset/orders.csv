@@ -1,0 +1,5 @@
+order_id,user_id,product_id,quantity,order_date,status
+9001,1,101,2,2025-07-01,Delivered
+9002,2,102,1,2025-07-03,In Transit
+9003,1,105,1,2025-07-02,Delivered
+9004,3,103,1,2025-07-04,Cancelled
